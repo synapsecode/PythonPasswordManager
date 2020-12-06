@@ -35,9 +35,12 @@ ppm keygen
 > ### Getting a list of all Saved Passwords
 >> ```ppm list -k "abcd"``` You must remember to add the same ppmkey for all your passwords if you want to utilize this command. Else, it will produce garbage results
 
->>> Example(Using Correct ppmkey)
+>>> Example(Using **Correct ppmkey**)
+>>>> ![](https://github.com/synapsecode/PythonPasswordManager/blob/master/GithubData/1.JPG)
 
->>> Example(Using Wrong ppmkey): Notice how it generates incorrect passwords
+
+>>> Example(Using **Wrong ppmkey**): Notice how it generates incorrect passwords
+>>>> ![](https://github.com/synapsecode/PythonPasswordManager/blob/master/GithubData/2.JPG)
 
 > ### Clear All the Passwords at once
 >>> ```ppm clear```
