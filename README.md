@@ -22,6 +22,8 @@ ppm keygen
 9. Done. PythonPasswordManager has been setup on your PC
 
 ## Commands
+**Can call this from any directory using the terminal or cmd**
+
 > ### Adding a new Password
 >> ```ppm add -n "Facebook" -p "123456" -k "abcd"```
 >> The -n flag is the name of the password, -p flag is the password and the -k is your custom ppm encryption key
