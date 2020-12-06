@@ -180,6 +180,9 @@ if __name__ == '__main__':
 		else:
 			print("Cannot Generate new Cryptographic Keys if you already have encrypted passwords")
 
+	elif(args.command == 'upgrade'):
+		print("already in latest stable version")
+
 
 	#MINOR COMMANDS
 	else:
