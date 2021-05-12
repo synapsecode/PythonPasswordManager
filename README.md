@@ -1,5 +1,5 @@
 # Python Password Manager
-PythonPasswordManager abbreviated as ppm is a simple and easy-to-use command-line based password manager for Windows (as of now).
+PythonPasswordManager abbreviated as ppm is a simple and easy-to-use command-line based password manager for Windows.
 
 ## Why use this?
 I personally find this incredibly useful as I dont have to keep track of my passwords in my head. I can just go to my terminal and get the password that I want or I can list out all of my Passwords at once! This is really useful to me! Hence i made a tool so that you could benefit from it too!
